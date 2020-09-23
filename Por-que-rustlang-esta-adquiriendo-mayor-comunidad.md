@@ -25,9 +25,9 @@ Hablemos un poco sobre el "Garbage Collector" de Rustlang, antes quiero aclarar 
 
 A todo esto, ¿Qué proyectos usan Rustlang? Discord es un gran ejemplo, esta empresa pasó de utilizar Go a utilizar Rust en algunas de sus características para mejorar la latencia entre el servidor y sus usuarios; esto fue explicado en un artículo publicado en su blog oficial (https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f). Otro gran ejemplo es la alianza entre Mozilla y Samsung para hacer el navegador web Servo paralelo a Firefox.
 
-No podemos dejar atrás a Microsoft, puesto que este usa Rust en Microsoft Azure IoT Edge (una plataforma usada para ejecutar servicios de Azure e inteligencia articial en dispositivos de IoT) para algunos componentes. También tenemos el ya conocido Deno, el nuevo entorno de ejecución de JavaScript que usa el motor V8 de Google.
+No podemos dejar atrás a Microsoft, puesto que este usa Rust en Microsoft Azure IoT Edge (una plataforma usada para ejecutar servicios de Azure e inteligencia articial en dispositivos de IoT) para algunos componentes. También tenemos el ya conocido Deno, el nuevo entorno de ejecución de JavaScript que usa el motor V8 de Google. Inclusive, algunos contribuidores al kernel de Linux están evaluando las posibilidades de pasar todo el kernel a Rust o hacer los nuevos componentes en este tras ver su potencial en la comunidad y su gran aceptación.
 
-Con Discord podemos hacer infinidad de cosas desde un sistema operativo o una simple aplicación de consola; también aplicaciones de escritorio, videojuegos, páginas web o incluso utilizarlo en conjunto a JavaScript usando WebAssembly.
+Con Rustlang podemos hacer infinidad de cosas desde un sistema operativo o una simple aplicación de consola; también aplicaciones de escritorio, videojuegos, páginas web o incluso utilizarlo en conjunto a JavaScript usando WebAssembly.
 
 A continuación veremos unos pequeños ejemplos de código en Rustlang. ([Ver Ejemplos](#Ejemplos))
 
