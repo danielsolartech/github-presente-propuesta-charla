@@ -1,6 +1,6 @@
 # ¿Por qué Rustlang está adquiriendo mayor comunidad?
 
-## Table of Contents
+## Contenido
 * [Objetivo](#Objetivo)
 * [Descripción](#Descripción)
 * [Guión](#Guión)
